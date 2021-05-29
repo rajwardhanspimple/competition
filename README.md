@@ -1,3 +1,4 @@
+theme: jekyll-theme-modernist
 # competition
 ##click below
 # competition321
